@@ -1,0 +1,7 @@
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\CalculatorTests\bin\Debug\CalculatorTests.dll
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\CalculatorTests\bin\Debug\CalculatorTests.pdb
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\CalculatorTests\bin\Debug\Calculator.exe
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\CalculatorTests\bin\Debug\Calculator.pdb
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\CalculatorTests\obj\Debug\CalculatorTests.dll
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\CalculatorTests\obj\Debug\CalculatorTests.pdb

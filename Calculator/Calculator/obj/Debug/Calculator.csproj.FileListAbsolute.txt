@@ -1,0 +1,16 @@
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\CheckBook\CheckBookWindow.g.cs
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\CheckBook\CheckBookWindow.baml
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\dinesh\Source\Repos\CSharp2015\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
